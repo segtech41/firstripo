@@ -1,0 +1,19 @@
+{ 
+    "menu": {
+        "dirnks":{
+            "alcohol": "beer",
+            "nonalcohol": "softdrinks"
+        }
+        },
+
+        "workers":{
+        "smithage": "30",
+        "lindaage": "29"
+    },
+    
+    "customer": {
+        "addres": "barcelona",
+        "email": "gmail",
+        "phonenumber": "63564828934"
+    }    
+}

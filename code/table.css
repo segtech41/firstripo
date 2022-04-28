@@ -1,0 +1,14 @@
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding-right: 50px;   
+}
+th{
+    background-color: violet;
+}
+.pad{
+    padding: 5px 5px;
+}
+html{
+    background-color: aqua;
+}

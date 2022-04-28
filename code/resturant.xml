@@ -1,0 +1,23 @@
+<resturant>
+    <menu>
+        <food>
+            seafood
+        </food>
+        <drinks>
+            pepsi
+        </drinks>
+    </menu>
+    <workers>
+     <id> 4682
+     </id>
+     <age>30</age>
+    </workers>
+    <customer>
+        <address>
+            barcelona
+        </address>
+        <number>
+            636489326
+        </number>
+    </customer>
+</resturant>

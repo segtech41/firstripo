@@ -1,0 +1,14 @@
+html{
+    background-image: linear-gradient(red, yellow);
+    height: 100vh;
+
+}
+.a{
+    color:red ;
+}
+.b{
+    color: aqua;
+}
+.c{
+    color: violet;
+}
